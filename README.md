@@ -1,7 +1,7 @@
 ## HelloDiego
 
 ### App Description
-`TODO://` The app involved coding
+`TODO://` Optional bonus features
 
 <img src="https://i.imgur.com/JTvMAtC.gif" width=200><br>
 
