@@ -3,7 +3,7 @@
 ### App Description
 `TODO://` The app involved coding
 
-<img src="https://i.imgur.com/JTvMAtC.gifv" width=200><br>
+<img src="https://i.imgur.com/JTvMAtC.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
